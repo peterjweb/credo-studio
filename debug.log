@@ -1,0 +1,5 @@
+[27-Apr-2017 22:40:43 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/credostudio/htdocs/wp-admin/includes/dashboard.php on line 1227
+[28-Apr-2017 02:34:23 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[28-Apr-2017 02:34:23 UTC] PHP Notice:  Undefined variable: edit_link in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 892
+[28-Apr-2017 02:34:23 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[28-Apr-2017 02:34:23 UTC] PHP Notice:  Undefined variable: edit_link in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 892
