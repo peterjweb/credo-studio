@@ -7,3 +7,28 @@
 [28-Apr-2017 19:06:03 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/credostudio/htdocs/wp-admin/includes/dashboard.php on line 1227
 [28-Apr-2017 19:06:21 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /srv/www/credostudio/htdocs/wp-includes/update.php on line 319
 [28-Apr-2017 19:06:39 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /srv/www/credostudio/htdocs/wp-includes/update.php on line 319
+[28-Apr-2017 21:08:35 UTC] PHP Notice:  Undefined index: &#8221;14 in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 131
+[28-Apr-2017 21:08:35 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 247
+[28-Apr-2017 21:08:35 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 340
+[28-Apr-2017 21:08:35 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
+[28-Apr-2017 21:08:35 UTC] PHP Notice:  Undefined index:  in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
+[28-Apr-2017 21:19:08 UTC] PHP Notice:  Undefined index: &#8221;14 in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 131
+[28-Apr-2017 21:19:08 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 247
+[28-Apr-2017 21:19:08 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 340
+[28-Apr-2017 21:19:08 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
+[28-Apr-2017 21:19:08 UTC] PHP Notice:  Undefined index:  in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
+[28-Apr-2017 21:20:06 UTC] PHP Notice:  Undefined index: &#8221;14 in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 131
+[28-Apr-2017 21:20:06 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 247
+[28-Apr-2017 21:20:06 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 340
+[28-Apr-2017 21:20:06 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
+[28-Apr-2017 21:20:06 UTC] PHP Notice:  Undefined index:  in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
+[29-Apr-2017 00:24:39 UTC] PHP Notice:  Undefined index: &#8221;14 in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 131
+[29-Apr-2017 00:24:39 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 247
+[29-Apr-2017 00:24:39 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 340
+[29-Apr-2017 00:24:39 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
+[29-Apr-2017 00:24:39 UTC] PHP Notice:  Undefined index:  in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
+[29-Apr-2017 00:24:46 UTC] PHP Notice:  Undefined index: &#8221;14 in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 131
+[29-Apr-2017 00:24:46 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 247
+[29-Apr-2017 00:24:46 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 340
+[29-Apr-2017 00:24:46 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
+[29-Apr-2017 00:24:46 UTC] PHP Notice:  Undefined index:  in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
