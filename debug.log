@@ -32,3 +32,15 @@
 [29-Apr-2017 00:24:46 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 340
 [29-Apr-2017 00:24:46 UTC] PHP Notice:  Undefined variable: column_size in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
 [29-Apr-2017 00:24:46 UTC] PHP Notice:  Undefined index:  in /srv/www/credostudio/htdocs/wp-content/plugins/fusion-builder/shortcodes/fusion-column.php on line 365
+[29-Apr-2017 01:41:57 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[29-Apr-2017 01:41:58 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[29-Apr-2017 01:41:58 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[29-Apr-2017 02:20:33 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[29-Apr-2017 02:20:34 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[29-Apr-2017 02:20:34 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[29-Apr-2017 22:11:45 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /srv/www/credostudio/htdocs/wp-includes/update.php on line 129
+[29-Apr-2017 22:16:04 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[29-Apr-2017 22:16:04 UTC] PHP Notice:  Undefined variable: edit_link in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 892
+[29-Apr-2017 22:16:04 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[29-Apr-2017 22:16:04 UTC] PHP Notice:  Undefined variable: edit_link in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 892
+[30-Apr-2017 20:09:57 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/credostudio/htdocs/wp-admin/includes/dashboard.php on line 1227
