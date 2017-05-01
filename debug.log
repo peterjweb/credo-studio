@@ -44,3 +44,10 @@
 [29-Apr-2017 22:16:04 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
 [29-Apr-2017 22:16:04 UTC] PHP Notice:  Undefined variable: edit_link in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 892
 [30-Apr-2017 20:09:57 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/credostudio/htdocs/wp-admin/includes/dashboard.php on line 1227
+[01-May-2017 04:38:51 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[01-May-2017 04:38:51 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[01-May-2017 04:38:51 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[01-May-2017 06:32:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Hc_Insert_Html_Widget has a deprecated constructor in /srv/www/credostudio/htdocs/wp-content/plugins/healcode-mindbody-widget/widget.php on line 8
+[01-May-2017 19:25:05 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[01-May-2017 19:25:06 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
+[01-May-2017 19:25:06 UTC] PHP Notice:  Trying to get property of non-object in /srv/www/credostudio/htdocs/wp-content/themes/Avada/includes/avada-functions.php on line 881
